@@ -1,1 +1,1 @@
-# .github
+# Aletheia Organization
